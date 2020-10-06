@@ -21,7 +21,9 @@ var persona = {
   nombre: "Jorge",
   edad: 33,
 }
-
+var ariel = {
+  hobbies: ['rally', 'futbol', 'equitacion']
+}
 
 function jugueteloco(datoA, datoB) {
   ;
